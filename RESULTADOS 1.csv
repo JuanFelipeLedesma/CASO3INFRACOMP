@@ -1,0 +1,6 @@
+Escenario;ClienteID;PaqueteID;Tiempo (ms)
+Escenario de Prueba 1;cliente1;paquete1;9
+Escenario de Prueba 2;cliente1;paquete1;2
+Escenario de Prueba 3;cliente1;paquete1;2
+Escenario de Prueba 4;cliente1;paquete1;1
+Escenario de Prueba 5;cliente1;paquete1;1
